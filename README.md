@@ -1,5 +1,5 @@
 # SimonGame
-To play this Simon game:
+To play this Simon game: https://ryannn41.github.io/SimonGame/ <br><br>
 How the Simon game works:<br>
 Firstly, the game shows the first color in the sequence (blue). The user clicks on the blue button.<br>
 
